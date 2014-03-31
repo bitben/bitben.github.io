@@ -7,6 +7,13 @@
 </url>
 
 	<url>
+	<loc>http://www.bitben.org/articles/mars-one-project-to-simulate-red-planet-on-earth/</loc>
+	<lastmod>2014-04-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+	</url>
+
+	<url>
 	<loc>http://www.bitben.org/articles/printing-sugar-candies-and-chocolates-for-real/</loc>
 	<lastmod>2014-01-13</lastmod>
 	<changefreq>monthly</changefreq>
@@ -345,13 +352,6 @@
 	<url>
 	<loc>http://www.bitben.org/articles/google-to-launch-street-view-of-100-indian-monuments/</loc>
 	<lastmod>2013-10-03</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>1.0</priority>
-	</url>
-
-	<url>
-	<loc>http://www.bitben.org/articles/whats-new-in-gnome-3/</loc>
-	<lastmod>2013-09-26</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>1.0</priority>
 	</url>
